@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FileUpload renders correctly 1`] = `
+<div
+  className="inputHolder"
+>
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      accept="image/*"
+      capture="camera"
+      className="uploadInput"
+      onChange={[Function]}
+      type="file"
+    />
+    <button
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+  <div>
+    <div
+      className="mainWrapper"
+    >
+      <div
+        className="mainContent"
+      >
+        <div
+          className="imageHolder"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<div
+  className="inputHolder"
+>
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      accept="image/*"
+      capture="camera"
+      className="uploadInput"
+      onChange={[Function]}
+      type="file"
+    />
+    <button
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+  <div>
+    <div
+      className="mainWrapper"
+    >
+      <div
+        className="mainContent"
+      >
+        <div
+          className="imageHolder"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
