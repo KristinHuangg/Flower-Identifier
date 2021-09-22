@@ -12,7 +12,6 @@ Clone the repo:
 Build React front-end:
 
 ` npm install
-
   npm start
 `
 
