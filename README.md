@@ -2,6 +2,8 @@
 
 Ever took a picture of a cute flower and wished to knew what it was? This web-app is for you! Simply upload the image, submit, then scroll down and click 'identify image' to see what the top 3 most likely flower species of that random flower you see in the wild.
 
+Submitted as part of Shopify's Backend Internship Application Project.
+
 ## Local Instance
 
 Clone the repo:
