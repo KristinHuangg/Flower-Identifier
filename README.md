@@ -11,18 +11,18 @@ Clone the repo:
 
 Build React front-end:
 
-` npm install
-  npm start
-`
+<pre>
+npm install
+npm start
+</pre>
 
 Build React back-end:
 
-` cd backend
-
-  npm install
-  
-  node server.js
-`
+<pre>
+cd backend
+npm install
+node server.js
+</pre>
 
 ## Testing
 
