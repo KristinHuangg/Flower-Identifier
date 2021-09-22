@@ -4,23 +4,19 @@ Ever took a picture of a cute flower and wished to knew what it was? This web-ap
 
 ## Local Instance
 
-1. Clone the repo
+Clone the repo:
+` git clone https://github.com/KristinHuangg/Flower-Identifier.git `
 
+Build React front-end:
+` npm install
+  npm start
+`
+Build React back-end:
+` cd backend
+  npm install
+  node server.js
+`
 
-
-### `npm install`
-To install dependencies.
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### `cd backend` then `node server.js`
-
-Runs the server.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Testing
+Testing is done with Jest.
+` npm test`
